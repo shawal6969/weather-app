@@ -1,27 +1,16 @@
 body{
-    background-image: url(images/bg.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 625px;
     margin: 0;
-    padding: 0;   
+    padding: 0;
+    background-color: #87ceeb;   
 }
 
-.overlay{
-    width: 100%;
-    height: 625px;
-    background-color: black;
-    opacity: 0.6;
-    position: absolute;
-    z-index: 5;
-    bottom: 0;
-}
+
 
 .content{
-    color: white;
+    color: #0d3b4c;
     margin: 0 auto;
     text-align: center;
     position: relative;
-    z-index: 10;
     top: 100px;
 }
 
